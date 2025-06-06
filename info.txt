@@ -1,0 +1,13 @@
+project has several stages
+
+stage 1. create a basic program that is able to play an audio (mp3) file from a given file path.
+
+stage 2. create command line controls for the program so that you can pause and replay or stop the audio play.
+
+stage 3. create a UI for the player
+    3.1 add a browse button or menu
+    3.2 add a play/pause button
+    3.3 add a next & prev buttons
+    3.4 add a text area so that it can show the audio file track information (artist, album, ...)
+
+stage 4. make the application installable for both macos and windows.

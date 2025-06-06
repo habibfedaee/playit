@@ -1,3 +1,5 @@
+package simplePlayer;
+
 import javazoom.jl.player.Player;
 import java.io.FileInputStream;
 

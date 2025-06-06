@@ -3,9 +3,7 @@ package simplePlayer;
 import javazoom.jl.player.Player;
 import java.io.FileInputStream;
 
-import java.io.FileInputStream;
-
-public class Main {
+public class SimplePlayer {
     public static void main(String[] args) {
 
          String filePath = "/Users/habibullahfedaee/Music/03_Dunya_Guzaran.mp3"; // change this to the actual file you want to play
